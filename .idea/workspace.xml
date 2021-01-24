@@ -1,13 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bd5a611-6fe8-4852-98a5-f3e5b677d4e0" name="Default Changelist" comment="" />
+    <list default="true" id="1bd5a611-6fe8-4852-98a5-f3e5b677d4e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/decorator/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/decorator/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/decorator/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/decorator/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/decorator/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/decorator/StarbuzzCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/observer/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/observer/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/simplefactory/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/simplefactory/ClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/simplefactory/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/simplefactory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/simplefactory/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/simplefactory/PizzaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/simplefactory/SimplePizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/src/strategy/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nRjge9JrE9MzLHbQU3HZjXSgFn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,11 +70,90 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="233" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.PizzaTest">
+    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="strategy.MiniDuckSimulator" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simplefactory.PizzaTest" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.StarbuzzCoffee" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observer.WeatherStation" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MiniDuckSimulator" />
+      <item itemvalue="Application.WeatherStation" />
+      <item itemvalue="Application.StarbuzzCoffee" />
+      <item itemvalue="Application.PizzaTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PizzaTest" />
+        <item itemvalue="Application.StarbuzzCoffee" />
+        <item itemvalue="Application.WeatherStation" />
+        <item itemvalue="Application.MiniDuckSimulator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611359909341</updated>
-      <workItem from="1611359913071" duration="5000" />
+      <workItem from="1611359913071" duration="13587000" />
     </task>
     <servers />
   </component>
@@ -43,5 +177,37 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="217" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1611359917342" />
+    <state x="959" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611361869964">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="959" y="217" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1611361869964" />
+    <state x="1342" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1611384138908">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1342" y="268" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1611384138908" />
+    <state width="943" height="305" key="GridCell.Tab.0.bottom" timestamp="1611470871427">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="943" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1611470871427" />
+    <state width="943" height="305" key="GridCell.Tab.0.center" timestamp="1611470871427">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="943" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1611470871427" />
+    <state width="943" height="305" key="GridCell.Tab.0.left" timestamp="1611470871427">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="943" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1611470871427" />
+    <state width="943" height="305" key="GridCell.Tab.0.right" timestamp="1611470871427">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="943" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1611470871427" />
+    <state x="1010" y="136" key="SettingsEditor" timestamp="1611361993006">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1010" y="136" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1611361993006" />
+    <state x="930" y="185" key="new project wizard" timestamp="1611360285129">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="930" y="185" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1611360285129" />
   </component>
 </project>
